@@ -1,5 +1,3 @@
-#!/bin/sh
-
 addNumbers() {
   result=$(($1+$2))
   echo $result
